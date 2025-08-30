@@ -42,4 +42,4 @@ An IoT-based solution to monitor and manage your fish tank in real-time using an
 See `docs/` folder for:
 
 - Flow Chart (`flow_chart.png`)
-- Circuit Diagram ('circuit.png')
+- Circuit Diagram (`circuit.png`)
