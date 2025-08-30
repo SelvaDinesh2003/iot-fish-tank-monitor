@@ -22,17 +22,6 @@ An IoT-based solution to monitor and manage your fish tank in real-time using an
 - Blynk / custom web dashboard for real-time monitoring
 - Arduino code on ESP32
 
-## Folder Structure
-
-iot-fish-tank-monitor/
-├─ firmware/ # ESP32 code
-├─ docs/ # Documentation (block diagrams, flowcharts)
-├─ images/ # Screenshots / demo
-├─ README.md
-├─ LICENSE
-└─ .gitignore
-
-
 ## Installation
 
 1. Install [Arduino IDE](https://www.arduino.cc/en/software) and ESP32 board support.
@@ -52,6 +41,5 @@ iot-fish-tank-monitor/
 
 See `docs/` folder for:
 
-- Block Diagram (`block_diagram.png`)
 - Flow Chart (`flow_chart.png`)
-
+- Circuit Diagram ('circuit.png')
