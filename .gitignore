@@ -1,0 +1,17 @@
+# Arduino / ESP32 build files
+*.bin
+*.elf
+*.hex
+*.map
+*.zip
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
